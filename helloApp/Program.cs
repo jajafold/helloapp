@@ -9,5 +9,10 @@ namespace helloApp
             Console.WriteLine("Hello World!");
             Console.ReadLine();
         }
+
+        public static void GreetWhite() {
+            Console.WriteLine("Hello White");
+        }
     }
+
 }
